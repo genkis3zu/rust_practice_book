@@ -1,0 +1,1 @@
+C:\Users\mizuy\OneDrive\Documents\ProgramingWorkSpace\Rust\rust_practice_book\echor\target\debug\echor.exe: C:\Users\mizuy\OneDrive\Documents\ProgramingWorkSpace\Rust\rust_practice_book\echor\src\main.rs
